@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E63,100:06B6D4&height=200&section=header&text=ANKIT%20RAWAT&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/AnkitRawatBuilds">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+developer+space.;Building+ideas+into+reality.;Learning.+Coding.+Improving+every+day." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+developer+space.;Building+ideas+into+reality.;Learning.+Coding.+Improving+every+day." />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=AnkitRawatBuilds&style=flat-square&color=0891B2&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/AnkitRawatBuilds?style=flat-square&color=0891B2&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=AnkitRawatBuilds&style=flat-square&color=0891B2&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/AnkitRawatBuilds?style=flat-square&color=0891B2&label=FOLLOWERS" />
 </p>
 
 </div>
@@ -95,7 +95,17 @@ An Information Technology student focused on software development and building p
 
 ---
 
-## 05 / Explore My Profile
+## 05 / Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AnkitRawatBuilds/AnkitRawatBuilds/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 06 / Explore My Profile
 
 <details>
 <summary><b>What am I currently learning?</b></summary>
@@ -131,7 +141,7 @@ An Information Technology student focused on software development and building p
 
 ---
 
-## 06 / Projects
+## 07 / Projects
 
 <div align="center">
 
@@ -147,7 +157,7 @@ My project portfolio is being organized. Check back soon!
 
 ---
 
-## 07 / Connect With Me
+## 08 / Connect With Me
 
 <div align="center">
 
